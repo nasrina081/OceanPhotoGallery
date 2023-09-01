@@ -1,0 +1,22 @@
+h1{
+  color: rgb(241, 188, 167);
+  font-family: 'Arial';
+  border: 5px solid rgb(187, 179, 179);
+  background-color: rgb(110, 110, 110);
+  padding-left: 200px;
+}
+img{
+  width: 25%;
+  margin-bottom: 10px;
+  border: 3px solid rgb(0, 0, 0);
+
+}
+.container{
+  display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-around;
+}
+body{
+  background-color: rgb(216, 207, 203)
+  }
